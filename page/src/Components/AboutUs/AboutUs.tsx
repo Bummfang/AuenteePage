@@ -14,7 +14,7 @@ const AboutUsCard = () => {
 
       {/* Textbereich */}
       <div className="p-8 md:w-3/5">
-        <h2 className="font-bold text-3xl text-gray-800 mb-6">About Us</h2>
+        <h2 className="font-bold text-3xl text-gray-800 mb-6">Über uns</h2>
         <p className="text-gray-600 text-lg leading-relaxed">
           Auentee – das sind Peter, ein promovierter Chemiker, und Steffi, eine Apothekerin, die ihre Leidenschaft und ihr Wissen über nachhaltige Bodenbearbeitung, den Anbau von Pflanzen, Umweltschutz und Teegenuss vereinen.<br /><br />
           Nach vielen Jahren in unseren erlernten Berufen fassten wir schließlich den Entschluss, den Schritt in die Selbstständigkeit zu wagen. Zuvor hatten wir unterschiedlichste Beschäftigungen bei verschiedenen Arbeitgebern, doch keine dieser Tätigkeiten konnte uns wirklich erfüllen. Als Freigeister konnten und wollten wir uns nicht mit der gegenwärtigen Arbeitskultur abfinden. Wir hangelten uns von Job zu Job und stellten immer wieder fest: Wenn wir nicht das tun, was uns glücklich macht, steuern wir unweigerlich auf eine Depression zu. <br /><br />
@@ -37,7 +37,7 @@ const AboutUsCard = () => {
       {/* Bildbereich */}
       <div className="md:w-2/5 h-96 p-4 mt-16 ">
         <img
-          src="/images/ueberuns/fahrrad.webp"
+          src="/images/tea/BergteeZwei.webp"
           alt="Tee-Feld"
           className="object-cover h-full w-full rounded-r-lg"
         />
